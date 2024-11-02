@@ -19,20 +19,23 @@ An engaging web application that helps users explore and manage their favorite t
 1. Clone the repository:
   ```bash
   git clone https://github.com/Lingaraj-Patil/Travel-destination-planner.git
-
+  ```
+  
 2. Change the directory:
   ```bash
   cd Travel-destination-planner
-
+  ```
 3. Install dependencies:
   ```bash
   npm install
+  ````
 
 4. Run the application:
   ```bash
   npm start
-
+  ```
   or
-  
+
   ```bash
   npm run dev
+  ```
