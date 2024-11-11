@@ -25,8 +25,6 @@ An engaging web application that helps users explore and manage their favorite t
   ```bash
   cd Travel-destination-planner
 
-https://github.com/user-attachments/assets/54f3d52c-cad5-464d-af80-1fcb442f53bf
-
 
   ```
 3. Install dependencies:
